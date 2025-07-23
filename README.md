@@ -20,7 +20,7 @@ Monthly visits to a coffeehouse proved most useful as expected, where having at 
 
 Destination seemed to be an important factor where customers saw greater coupon usage when there was no urgent place for destination. Income saw greater usage for less than $20 coupons as well, particularly in ranges $50-75k, $25-37k, and less than $12.5k. Conversely, income also proved useful to predicting less coupon usage in ranges $87.5k-100k. Another variable that proved useful on both sides was weather where sunny weather saw higher usage rates and rainy/snowy weather saw lower. Other useful features for predicting usage were times at 6 pm and 7 am improving usage, expiration times of one day improving usage, and marital statuses of divorced or widowed worsening usage. Interesting, bar visits per month were actually useful for prediction here, where 1-3 or 4-8 visists per months saw greater coupon usage.
 
-### $20 to 50$ Restaurant Coupons:
+### 20$ to 50$ Restaurant Coupons:
 
 Once again visits to the area a coupon focused on proved useful here where less than 1 visits to $20-50 restaurants led to lower coupon usage and gr8 visits led to higher. Passengers were also important where kid(s) or being alone led to low usage but having a parter led to high usage. Following these two variables, weather under snowy or rainy saw decreasing coupon usage here in conjunction. The remaining values proved useful only to lower coupon usage, such as age at 21 or 50 plus; income less than $12.5k or $75k-99k; destination being home; and time being 10 pm. Interestingly, there were a lot of values here that led to lower coupon usage, much more than higher coupon usage.
 
